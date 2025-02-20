@@ -19,5 +19,3 @@ Medium:
 2. Jump Game: https://leetcode.com/problems/jump-game/
 3. Majority Element: https://leetcode.com/problems/majority-element
 4. Valid Palindrome: https://leetcode.com/problems/valid-palindrome/
-
-This is a test
