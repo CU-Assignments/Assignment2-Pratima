@@ -1,5 +1,7 @@
 # Assignment2-Pratima
 
+Instructions: Create a PDF file that includes the code snippet along with screenshots of the submission.
+
 Arrays and logic building:
 1. Print elements of an array: https://www.geeksforgeeks.org/problems/print-elements-of-array4910/1
 2. Search array for a particular element: https://www.geeksforgeeks.org/problems/search-an-element-in-an-array-1587115621/1
@@ -17,10 +19,3 @@ Medium:
 2. Jump Game: https://leetcode.com/problems/jump-game/
 3. Majority Element: https://leetcode.com/problems/majority-element
 4. Valid Palindrome: https://leetcode.com/problems/valid-palindrome/
-
-Hard:
-1. Jump Game 2: https://leetcode.com/problems/jump-game-ii
-2. 3Sum: https://leetcode.com/problems/3sum/
-3. Set Matrix zeroes: https://leetcode.com/problems/set-matrix-zeroes/
-4. Longest substring without repeating characters: https://leetcode.com/problems/longest-substring-without-repeating-characters/description/
-5. Finding duplicate number: https://leetcode.com/problems/find-the-duplicate-number/description/
